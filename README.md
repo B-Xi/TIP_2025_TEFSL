@@ -1,6 +1,3 @@
-# TEFSL
-This repo is the implementation of the following paper:
-
 Transductive Few-shot Learning With Enhanced Spectral-Spatial Embedding for Hyperspectral Image Classification, TIP, 2025.
 ==
 [Bobo Xi](https://b-xi.github.io/), [Yun Zhang](https://ieeexplore.ieee.org/author/37087032130), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yan Huang](https://scholar.google.com/citations?user=SgVl7O0AAAAJ&hl=zh-CN), [Zan Li](https://scholar.google.com/citations?hl=zh-CN&user=FL3Mj4MAAAAJ&view_op=list_works&sortby=pubdate), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
@@ -8,7 +5,7 @@ Transductive Few-shot Learning With Enhanced Spectral-Spatial Embedding for Hype
 
 Code for the paper: [Transductive Few-shot Learning With Enhanced Spectral-Spatial Embedding for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10855324).
 
-<div align=center><img src="/TEFSL.png" width="90%" height="90%"></div>
+<div align=center><img src="/TEFSL.jpg" width="90%" height="90%"></div>
 Fig. 1: The architecture of the proposed TEFSL for few-shot HSIC. 
 
 ## Abstract
